@@ -1,2 +1,3 @@
 # Machine_learning_Projects
-- [Basic_Regression.ipynb](https://github.com/Pavand0515/Machine_learning_Projects/blob/main/Basic_regression.ipynb) is normal linear regression model contains some statstics and model training.
+In my learning process i worked have been worked on some datasets with different apporaches.
+- [Regression](https://github.com/Pavand0515/Machine_learning_Projects/tree/main/Regression) i have worked with statstical & normal apporach using sckitlearn.
